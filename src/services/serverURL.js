@@ -1,0 +1,1 @@
+export const serverURL = "https://etonal-shopping-app.onrender.com";
